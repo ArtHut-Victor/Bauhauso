@@ -1,0 +1,24 @@
+{
+  "name": "bauhuso",
+  "version": "3.14.6",
+  "description": "npm package for the Inter font family.",
+  "main": "arthut.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family"
+  ],
+  "author": "Victorzera",
+  "license": "OFL-1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArtHut-Victor/Bauhauso.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArtHut-Victor/Bauhauso/issues"
+  },
+  "homepage": "https://github.com/ArtHut-Victor/Bauhauso#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
