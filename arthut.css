@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: 'Bauhaus';
-  src: url('Bauhaus.eot?#iefix') format('embedded-opentype'),  url('Bauhaus.woff') format('woff'), url('Bauhaus.ttf')  format('truetype'), url('Bauhaus.svg#Bauhaus') format('svg');
+  src: url('Bauhaus.eot?#iefix') format('embedded-opentype'), url('Bauhaus.ttf')  format('truetype'), url('Bauhaus.svg#Bauhaus') format('svg');
   font-weight: normal;
   font-style: normal;
 }
