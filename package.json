@@ -2,13 +2,13 @@
   "name": "bauhuso",
   "version": "3.12.0",
   "description": "npm package for the Inter font family.",
-  "main": "arthut.css",
+  "main": "inter.css",
   "keywords": [
     "typeface",
     "font",
     "font family"
   ],
-  "author": "",
+  "author": "Victorzera",
   "license": "OFL-1.1",
-  "repository": ""
+  "repository": "git@github.com:ArtHut-Victor/Bauhauso.git"
 }
