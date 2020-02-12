@@ -1,0 +1,14 @@
+{
+  "name": "bauhuso",
+  "version": "3.12.0",
+  "description": "npm package for the Inter font family.",
+  "main": "arthut.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family"
+  ],
+  "author": "",
+  "license": "OFL-1.1",
+  "repository": ""
+}
